@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{157:function(t,s,a){"use strict";a.r(s);var e=a(20),i=Object(e.a)({},function(){var t=this.$createElement,s=this._self._c||t;return s("LayoutWrapper",[s("div",{staticClass:"main"},[s("EgoistTags",{attrs:{tags:this.$tags.list}})],1)])},[],!1,null,null,null);i.options.__file="Tags.vue";s.default=i.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{161:function(t,s,e){"use strict";e.r(s);var a=e(20),i=Object(a.a)({},function(){var t=this.$createElement,s=this._self._c||t;return s("LayoutWrapper",[s("div",{staticClass:"main"},[s("List",{attrs:{items:this.$category.posts}})],1)])},[],!1,null,null,null);i.options.__file="Category.vue";s.default=i.exports}}]);
